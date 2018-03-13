@@ -1,0 +1,28 @@
+{
+  "name": "incoterms",
+  "version": "1.0.2",
+  "description": "International Chamber of Commerce Incoterms",
+  "homepage": "https://tallysticks.io",
+  "bugs": {
+    "url": "https://github.com/Tallysticks/incoterms/issues"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Edward Ruchevits",
+    "email": "edward@tallysticks.io"
+  },
+  "contributors": [
+    {
+      "name": "Edward Ruchevits",
+      "email": "edward@tallysticks.io"
+    }
+  ],
+  "main": "src",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tallysticks/incoterms.git"
+  },
+  "engines": {
+    "node": "8.x.x"
+  }
+}
